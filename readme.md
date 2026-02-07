@@ -2,7 +2,6 @@
 
 ## 🧑‍💻 Identitas
 
-Nama: **Nur Fitriyani**
 Framework: **CodeIgniter 3**
 Database: **MySQL**
 
@@ -123,15 +122,6 @@ Keputusan ini diambil agar:
 * Seluruh requirement tes tetap terpenuhi
 * Alur aplikasi dapat berjalan secara end-to-end
 * Fokus penilaian tetap pada logika, struktur kode, dan implementasi fitur
-
----
-
-## 🧠 Catatan Tambahan
-
-* Seluruh kode ditulis dengan memperhatikan struktur MVC CodeIgniter
-* Validasi form menggunakan `form_validation` bawaan CI
-* Query database menggunakan Query Builder
-* Tidak menggunakan hardcoded value untuk kategori & status
 
 ---
 
